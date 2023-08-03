@@ -1,4 +1,4 @@
-cd C:\Users\team4\Documents\Docker-practise
+cd C:\Users\team4\Documents\Docker-practise\Docker
 date
 history >> History.txt
 git add .
